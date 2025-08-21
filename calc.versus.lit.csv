@@ -1,0 +1,12 @@
+﻿country,income,lit.tpp.mean,calc.tpp.mean,difference
+Belize,UM,0.134,0.12,0.014
+China,UM,0.7985,0.72,0.0785
+Fiji,UM,0.702,0.345,0.357
+Bangladesh,LM,0.7615,0.2,0.5615
+Ghana,LM,1.138,0.275,0.863
+Haiti,LM,0.634,0.525,0.109
+Nigeria,LM,0.2897,0.32,-0.0303
+Papua New Guinea,LM,1.076,0.22,0.856
+Eritrea,L,0.0642,0.25,-0.1858
+Ethiopia,L,0.8455,0.84,0.0055
+South Sudan,L,1.672,0.385,1.287

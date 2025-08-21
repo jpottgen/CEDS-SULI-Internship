@@ -1,0 +1,511 @@
+iso,Country_Name,Region,Figure_Region,1
+,,,,0
+abw,Aruba,Latin America,Central and South America,1
+,,,,0
+afg,Afghanistan,Asia,Other Asia,1
+,,,,0
+ago,Angola,Africa,Africa,1
+,,,,0
+alb,Albania,Eastern Europe,Eastern Europe,1
+,,,,0
+ant,Netherlands Antilles,Latin America,Central and South America,1
+,,,,0
+are,United Arab Emirates,Middle East,Middle East,1
+,,,,0
+arg,Argentina,Latin America,Central and South America,1
+,,,,0
+arm,Armenia,FSU,FSU,1
+,,,,0
+arm,Armenia,FSU,FSU,1
+,,,,0
+asm,American Samoa,Islands,Other Asia,1
+,,,,0
+atg,Antigua and Barbuda,Latin America,Central and South America,1
+,,,,0
+aus,Australia,OtherOECD90,South East Asia and Aust/NZ,1
+,,,,0
+aut,Austria,Western Europe,Western Europe,1
+,,,,0
+aze,Azerbaijan,FSU,FSU,1
+,,,,0
+aze,Azerbaijan,FSU,FSU,1
+,,,,0
+bdi,Burundi,Africa,Africa,1
+,,,,0
+bel,Belgium,Western Europe,Western Europe,1
+,,,,0
+ben,Benin,Africa,Africa,1
+,,,,0
+bfa,Burkina Faso,Africa,Africa,1
+,,,,0
+bgd,Bangladesh,Asia,Other Asia,1
+,,,,0
+bgr,Bulgaria,Eastern Europe,Eastern Europe,1
+,,,,0
+bhr,Bahrain,Middle East,Middle East,1
+,,,,0
+bhs,Bahamas,Latin America,Central and South America,1
+,,,,0
+bih,Bosnia and Herzegovina,Eastern Europe,Eastern Europe,1
+,,,,0
+bih,Bosnia and Herzegovina,Eastern Europe,Eastern Europe,1
+,,,,0
+blr,Belarus,FSU,FSU,1
+,,,,0
+blr,Belarus,FSU,FSU,1
+,,,,0
+blx,Belgium-Luxembourg ,Western Europe,Western Europe,1
+,,,,0
+blz,Belize,Latin America,Central and South America,1
+,,,,0
+bmu,Bermuda,Latin America,Central and South America,1
+,,,,0
+bol,Bolivia,Latin America,Central and South America,1
+,,,,0
+bra,Brazil,Latin America,Central and South America,1
+,,,,0
+brb,Barbados,Latin America,Central and South America,1
+,,,,0
+brn,Brunei Darussalam,Asia,South East Asia and Aust/NZ,1
+,,,,0
+btn,Bhutan,Asia,Other Asia,1
+,,,,0
+bwa,Botswana,Africa,Africa,1
+,,,,0
+caf,Central African Republic,Africa,Africa,1
+,,,,0
+can,Canada,OtherOECD90,North America,1
+,,,,0
+che,Switzerland,Western Europe,Western Europe,1
+,,,,0
+chl,Chile,Latin America,Central and South America,1
+,,,,0
+chn,China,Asia,China,1
+,,,,0
+civ,Cote dIvoire,Africa,Africa,1
+,,,,0
+cmr,Cameroon,Africa,Africa,1
+,,,,0
+cod,Democratic Republic of Congo,Africa,Africa,1
+,,,,0
+cod,Democratic Republic of Congo,Africa,Africa,1
+,,,,0
+cog,Congo,Africa,Africa,1
+,,,,0
+cok,Cook Islands,Islands,Other Asia,1
+,,,,0
+col,Colombia,Latin America,Central and South America,1
+,,,,0
+com,Comoros,Africa,Africa,1
+,,,,0
+cpv,Cape Verde,Africa,Africa,1
+,,,,0
+cri,Costa Rica,Latin America,Central and South America,1
+,,,,0
+csk,Czechoslovakia,Eastern Europe,Eastern Europe,1
+,,,,0
+cub,Cuba,Latin America,Central and South America,1
+,,,,0
+cuw,Curacao,Latin America,Central and South America,1
+,,,,0
+cym,Cayman Islands,Latin America,Central and South America,1
+,,,,0
+cyp,Cyprus,Western Europe,Western Europe,1
+,,,,0
+cze,Czech Republic,Eastern Europe,Eastern Europe,1
+,,,,0
+deu,Germany,Western Europe,Western Europe,1
+,,,,0
+dji,Djibouti,Africa,Africa,1
+,,,,0
+dma,Dominica,Latin America,Central and South America,1
+,,,,0
+dnk,Denmark,Western Europe,Western Europe,1
+,,,,0
+dom,Dominican Republic,Latin America,Central and South America,1
+,,,,0
+dza,Algeria,Africa,Africa,1
+,,,,0
+ecu,Ecuador,Latin America,Central and South America,1
+,,,,0
+egy,Egypt,Africa,Africa,1
+,,,,0
+eri,Eritrea,Africa,Africa,1
+,,,,0
+esh,Western Sahara,Africa,Africa,1
+,,,,0
+esp,Spain,Western Europe,Western Europe,1
+,,,,0
+est,Estonia,FSU,FSU,1
+,,,,0
+est,Estonia,FSU,FSU,1
+,,,,0
+eth,Ethiopia,Africa,Africa,1
+,,,,0
+fin,Finland,Western Europe,Western Europe,1
+,,,,0
+fji,Fiji,Asia,Other Asia,1
+,,,,0
+flk,Falkland Islands,Latin America,Central and South America,1
+,,,,0
+fra,France,Western Europe,Western Europe,1
+,,,,0
+fro,Faeroe Islands,Islands,Central and South America,1
+,,,,0
+fsm,Federated States of Micronesia,Asia,South East Asia and Aust/NZ,1
+,,,,0
+gab,Gabon,Africa,Africa,1
+,,,,0
+gbr,United Kingdom,Western Europe,Western Europe,1
+,,,,0
+geo,Georgia,FSU,FSU,1
+,,,,0
+geo,Georgia,FSU,FSU,1
+,,,,0
+gha,Ghana,Africa,Africa,1
+,,,,0
+gib,Gibraltar,Western Europe,Western Europe,1
+,,,,0
+gin,Guinea,Africa,Africa,1
+,,,,0
+global,Global,Global,Global,1
+,,,,0
+glp,Guadeloupe,Latin America,Central and South America,1
+,,,,0
+gmb,Gambia,Africa,Africa,1
+,,,,0
+gnb,Guinea-Bissau,Africa,Africa,1
+,,,,0
+gnq,Equatorial Guinea,Africa,Africa,1
+,,,,0
+grc,Greece,Western Europe,Western Europe,1
+,,,,0
+grd,Grenada,Latin America,Central and South America,1
+,,,,0
+grl,Greenland,Western Europe,Western Europe,1
+,,,,0
+gtm,Guatemala,Latin America,Central and South America,1
+,,,,0
+guf,French Guiana,Latin America,Central and South America,1
+,,,,0
+gum,Guam,Islands,Other Asia,1
+,,,,0
+guy,Guyana,Latin America,Central and South America,1
+,,,,0
+hkg,"Hong Kong, China",Asia,Other Asia,1
+,,,,0
+hnd,Honduras,Latin America,Central and South America,1
+,,,,0
+hrv,Croatia,Eastern Europe,Eastern Europe,1
+,,,,0
+hrv,Croatia,Eastern Europe,Eastern Europe,1
+,,,,0
+hti,Haiti,Latin America,Central and South America,1
+,,,,0
+hun,Hungary,Eastern Europe,Eastern Europe,1
+,,,,0
+idn,Indonesia,Asia,South East Asia and Aust/NZ,1
+,,,,0
+ind,India,Asia,Other Asia,1
+,,,,0
+irl,Ireland,Western Europe,Western Europe,1
+,,,,0
+irl,Ireland,Western Europe,Western Europe,1
+,,,,0
+irn,Islamic Republic of Iran,Middle East,Middle East,1
+,,,,0
+irq,Iraq,Middle East,Middle East,1
+,,,,0
+isl,Iceland,Western Europe,Western Europe,1
+,,,,0
+isr,Israel,Middle East,Middle East,1
+,,,,0
+ita,Italy,Western Europe,Western Europe,1
+,,,,0
+jam,Jamaica,Latin America,Central and South America,1
+,,,,0
+jor,Jordan,Middle East,Middle East,1
+,,,,0
+jpn,Japan,OtherOECD90,Other Asia,1
+,,,,0
+kaz,Kazakhstan,FSU,FSU,1
+,,,,0
+kaz,Kazakhstan,FSU,FSU,1
+,,,,0
+ken,Kenya,Africa,Africa,1
+,,,,0
+kgz,Kyrgyzstan,FSU,FSU,1
+,,,,0
+kgz,Kyrgyzstan,FSU,FSU,1
+,,,,0
+khm,Cambodia,Asia,Other Asia,1
+,,,,0
+kir,Kiribati,Asia,Other Asia,1
+,,,,0
+kna,Saint Kitts and Nevis,Latin America,Central and South America,1
+,,,,0
+kor,Republic of Korea,Asia,Other Asia,1
+,,,,0
+kwt,Kuwait,Middle East,Middle East,1
+,,,,0
+lao,Laos,Asia,Other Asia,1
+,,,,0
+lbn,Lebanon,Middle East,Middle East,1
+,,,,0
+lbr,Liberia,Africa,Africa,1
+,,,,0
+lby,Libya,Africa,Africa,1
+,,,,0
+lca,Saint Lucia,Latin America,Central and South America,1
+,,,,0
+lie,Liechtenstein,Western Europe,Western Europe,1
+,,,,0
+lka,Sri Lanka,Asia,Other Asia,1
+,,,,0
+lso,Lesotho,Africa,Africa,1
+,,,,0
+ltu,Lithuania,FSU,FSU,1
+,,,,0
+ltu,Lithuania,FSU,FSU,1
+,,,,0
+lux,Luxembourg,Western Europe,Western Europe,1
+,,,,0
+lva,Latvia,FSU,FSU,1
+,,,,0
+lva,Latvia,FSU,FSU,1
+,,,,0
+mac,Macao,Asia,Other Asia,1
+,,,,0
+mar,Morocco,Africa,Africa,1
+,,,,0
+mda,Moldova,FSU,FSU,1
+,,,,0
+mda,Moldova,FSU,FSU,1
+,,,,0
+mda,Moldova,FSU,FSU,1
+,,,,0
+mdg,Madagascar,Africa,Africa,1
+,,,,0
+mdv,Maldives,Islands,Other Asia,1
+,,,,0
+mex,Mexico,Latin America,Central and South America,1
+,,,,0
+mhl,Marshall Islands,Islands,Other Asia,1
+,,,,0
+mkd,Macedonia,Eastern Europe,Eastern Europe,1
+,,,,0
+mkd,Macedonia,Eastern Europe,Eastern Europe,1
+,,,,0
+mli,Mali,Africa,Africa,1
+,,,,0
+mlt,Malta,Western Europe,Western Europe,1
+,,,,0
+mmr,Myanmar (Burma),Asia,South East Asia and Aust/NZ,1
+,,,,0
+mne,Montenegro,Western Europe,Other Asia,1
+,,,,0
+mne,Montenegro,Western Europe,Other Asia,1
+,,,,0
+mng,Mongolia,Asia,Other Asia,1
+,,,,0
+moz,Mozambique,Africa,Africa,1
+,,,,0
+mrt,Mauritania,Africa,Africa,1
+,,,,0
+msr,Montserrat,Latin America,Central and South America,1
+,,,,0
+mtq,Martinique,Islands,Central and South America,1
+,,,,0
+mus,Mauritius,Africa,Africa,1
+,,,,0
+mwi,Malawi,Africa,Africa,1
+,,,,0
+mys,Malaysia,Asia,South East Asia and Aust/NZ,1
+,,,,0
+nam,Namibia,Africa,Africa,1
+,,,,0
+ncl,New Caledonia,Asia,Other Asia,1
+,,,,0
+ner,Niger,Africa,Africa,1
+,,,,0
+nga,Nigeria,Africa,Africa,1
+,,,,0
+nic,Nicaragua,Latin America,Central and South America,1
+,,,,0
+niu,Niue,Islands,Other Asia,1
+,,,,0
+nld,Netherlands,Western Europe,Western Europe,1
+,,,,0
+nor,Norway,Western Europe,Western Europe,1
+,,,,0
+npl,Nepal,Asia,Other Asia,1
+,,,,0
+nzl,New Zealand,Asia,South East Asia and Aust/NZ,1
+,,,,0
+omn,Oman,Middle East,Middle East,1
+,,,,0
+pak,Pakistan,Asia,Other Asia,1
+,,,,0
+pan,Panama,Latin America,Central and South America,1
+,,,,0
+per,Peru,Latin America,Central and South America,1
+,,,,0
+phl,Philippines,Asia,South East Asia and Aust/NZ,1
+,,,,0
+plw,Palau,Asia,Other Asia,1
+,,,,0
+png,Papua New Guinea,Asia,Other Asia,1
+,,,,0
+pol,Poland,Eastern Europe,Eastern Europe,1
+,,,,0
+pri,Puerto Rico,OtherOECD90,North America,1
+,,,,0
+prk,Democratic Peoples Republic of Korea,Asia,Other Asia,1
+,,,,0
+prt,Portugal,Western Europe,Western Europe,1
+,,,,0
+pry,Paraguay,Latin America,Central and South America,1
+,,,,0
+pse,Palestine,Middle East,Middle East,1
+,,,,0
+pyf,French Polynesia,Islands,Other Asia,1
+,,,,0
+qat,Qatar,Middle East,Middle East,1
+,,,,0
+reu,Reunion,Africa,Africa,1
+,,,,0
+rou,Romania,Eastern Europe,Eastern Europe,1
+,,,,0
+rus,Russia,FSU,FSU,1
+,,,,0
+rus,Russia,FSU,FSU,1
+,,,,0
+rwa,Rwanda,Africa,Africa,1
+,,,,0
+sau,Saudi Arabia,Middle East,Middle East,1
+,,,,0
+scg,Serbia and Montenegro,Eastern Europe,Eastern Europe,1
+,,,,0
+sdn,Sudan,Africa,Africa,1
+,,,,0
+sen,Senegal,Africa,Africa,1
+,,,,0
+sgp,Singapore,Asia,South East Asia and Aust/NZ,1
+,,,,0
+slb,Soloman Islands,Asia,Other Asia,1
+,,,,0
+sle,Sierra Leone,Africa,Africa,1
+,,,,0
+slv,El Salvador,Latin America,Central and South America,1
+,,,,0
+som,Somalia,Africa,Africa,1
+,,,,0
+spm,Saint Pierre and Miquelon,Islands,Central and South America,1
+,,,,0
+srb,Serbia,Eastern Europe,Eastern Europe,1
+,,,,0
+srb,Serbia,Eastern Europe,Eastern Europe,1
+,,,,0
+srb (kosovo),Kosovo,Eastern Europe,Eastern Europe,1
+,,,,0
+srb (kosovo),Kosovo,Eastern Europe,Eastern Europe,1
+,,,,0
+ssd,South Sudan,Africa,Africa,1
+,,,,0
+stp,Sao Tome and Principe,Africa,Africa,1
+,,,,0
+sur,Suriname,Latin America,Central and South America,1
+,,,,0
+svk,Slovakia,Eastern Europe,Eastern Europe,1
+,,,,0
+svn,Slovenia,Eastern Europe,Eastern Europe,1
+,,,,0
+svn,Slovenia,Eastern Europe,Eastern Europe,1
+,,,,0
+swe,Sweden,Western Europe,Western Europe,1
+,,,,0
+swz,Swaziland,Africa,Africa,1
+,,,,0
+sxm,Sint Maarten,Latin America,Central and South America,1
+,,,,0
+syc,Seychelles,Africa,Africa,1
+,,,,0
+syr,Syria,Middle East,Middle East,1
+,,,,0
+tca,Turks and Caicos Islands,Latin America,Central and South America,1
+,,,,0
+tcd,Chad,Africa,Africa,1
+,,,,0
+tgo,Togo,Africa,Africa,1
+,,,,0
+tha,Thailand,Asia,South East Asia and Aust/NZ,1
+,,,,0
+tjk,Tajikistan,FSU,FSU,1
+,,,,0
+tjk,Tajikistan,FSU,FSU,1
+,,,,0
+tkl,Tokelau,Islands,Other Asia,1
+,,,,0
+tkm,Turkmenistan,FSU,FSU,1
+,,,,0
+tkm,Turkmenistan,FSU,FSU,1
+,,,,0
+tls,Timor-Leste,Asia,Other Asia,1
+,,,,0
+ton,Tonga,Asia,Other Asia,1
+,,,,0
+tto,Trinidad and Tobago,Latin America,Central and South America,1
+,,,,0
+tun,Tunisia,Africa,Africa,1
+,,,,0
+tur,Turkey,Western Europe,Western Europe,1
+,,,,0
+twn,Chinese Taipei,Asia,Other Asia,1
+,,,,0
+tza,Tanzania,Africa,Africa,1
+,,,,0
+tza,Tanzania,Africa,Africa,1
+,,,,0
+uga,Uganda,Africa,Africa,1
+,,,,0
+ukr,Ukraine,FSU,FSU,1
+,,,,0
+ukr,Ukraine,FSU,FSU,1
+,,,,0
+ury,Uruguay,Latin America,Central and South America,1
+,,,,0
+usa,United States,OtherOECD90,North America,1
+,,,,0
+ussr,Soviet Union,FSU,FSU,1
+,,,,0
+uzb,Uzbekistan,FSU,FSU,1
+,,,,0
+uzb,Uzbekistan,FSU,FSU,1
+,,,,0
+vct,Saint Vincent And Grenadines,Latin America,Central and South America,1
+,,,,0
+ven,Venezuela,Latin America,Central and South America,1
+,,,,0
+vgb,British Virgin Islands,Latin America,Central and South America,1
+,,,,0
+vir,United States Virgin Islands,Islands,Central and South America,1
+,,,,0
+vnm,Vietnam,Asia,South East Asia and Aust/NZ,1
+,,,,0
+vnm,Vietnam,Asia,South East Asia and Aust/NZ,1
+,,,,0
+vut,Vanuatu,Asia,Other Asia,1
+,,,,0
+wlf,Wallis and Futuna Islands,Islands,Other Asia,1
+,,,,0
+wsm,Samoa,Asia,Other Asia,1
+,,,,0
+yem,Yemen,Middle East,Middle East,1
+,,,,0
+yug,Yugoslavia,Other Asia,Other Asia,1
+,,,,0
+zaf,South Africa,Africa,Africa,1
+,,,,0
+zmb,Zambia,Africa,Africa,1
+,,,,0
+zwe,Zimbabwe,Africa,Africa,1
